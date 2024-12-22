@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">假如殉道者的鲜血将要流淌在合阶上，我们就必须先建造台阶；假如圣殿将被摧毁，我们就必须先建造圣殿。</div>
 </template>
 
 <style lang="scss" scoped>
